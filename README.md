@@ -23,10 +23,11 @@ This project explores a used car dataset to uncover insights and trends in the U
 
 #### 🧪 Project Phases
 
-1. **Data Cleaning & Preprocessing**: Handle missing values, filter outliers, standardize columns
-2. **EDA (Exploratory Data Analysis)**: Visualize relationships between variables
-3. **SQL Analysis**: Generate insights using SQL queries via SQLite
-4. **Dashboard**: Create an interactive app using Streamlit
+1. **Data Understanding**: Understand the Data Structure
+2. **Data Cleaning & Preprocessing**: Handle missing values, filter outliers, standardize columns
+3. **EDA (Exploratory Data Analysis)**: Visualize relationships between variables
+4. **SQL Analysis**: Generate insights using SQL queries via SQLite
+5. **Dashboard**: Create an interactive app using Streamlit
 
 ---
 
